@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning languages and creativity.
 - 🌱 I’m currently learning Web Development at Le Wagon.
 - 💞️ I’m looking to collaborate on projects that help people learn, empower women and make the world a better place.
-- 📫 How to reach me: charyli@mailfence.com
+- 📫 How to reach me: 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like to juggle.
 

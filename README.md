@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @cji1312
 - 👀 I’m interested in learning languages and creativity.
-- 🌱 I’m currently learning Web Development at Le Wagon.
+- 🌱 I’m learnt Web Development at Le Wagon.
 - 💞️ I’m looking to collaborate on projects that help people learn, empower women and make the world a better place.
 - 📫 How to reach me: carrier pigeon / telepathic messages
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: An octopus has three hearts, but two of them stop beating when it swims, which is why they often prefer to crawl rather than swim to conserve energy!.
 
 <!---
